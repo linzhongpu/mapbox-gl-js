@@ -1,9 +1,9 @@
 /*---
-title: Display driving directions
+title: 显示行驶方向
 description: >-
-  Use the [mapbox-gl-directions](https://github.com/mapbox/mapbox-gl-directions)
-  plugin to show results from the Mapbox Directions API. Click the map to add an
-  origin and destination.
+  使用[mapbox-gl-directions](https://github.com/mapbox/mapbox-gl-directions)
+  插件来显示来自Mapbox Directions API的结果. 点击地图可添加
+  起点与终点。
 tags:
   - controls-and-overlays
 pathname: /mapbox-gl-js/example/mapbox-gl-directions/
