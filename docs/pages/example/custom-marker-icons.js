@@ -1,6 +1,6 @@
 /*---
-title: Add custom icons with Markers
-description: Use Markers to add custom icons to your map.
+title: 用马克笔添加自定义图标
+description: 使用马克笔在你的地图上添加自定义图标
 tags:
   - controls-and-overlays
 pathname: /mapbox-gl-js/example/custom-marker-icons/
